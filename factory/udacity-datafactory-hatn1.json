@@ -1,0 +1,9 @@
+{
+	"name": "udacity-datafactory-hatn1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9386e91d-4a3c-489b-9fa0-a95c18f08f75",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
